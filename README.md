@@ -91,6 +91,20 @@ npm start
 
 ---
 
+## 📁 Sample CSV Data
+
+You can view or download the full sample dataset [here](./server/mern-app.recored.csv).
+
+## 📊 Sample Data (CSV Preview)
+
+Here’s a sample of the seeded records:
+
+| Title         | Description        | Date       | Status   |
+|---------------|--------------------|------------|----------|
+| Record One    | First sample entry | 2025-01-01 | Active   |
+| Record Two    | Second sample      | 2025-01-02 | Inactive |
+| Record Three  | Third sample       | 2025-01-03 | Pending  |
+
 ### 4. Verify Setup
 
 - **Backend**: Visit `http://localhost:5000` (should respond with no errors).
