@@ -93,7 +93,7 @@ npm start
 
 ## 📁 Sample CSV Data
 
-You can view or download the full sample dataset [here](./server/mern-app.recored.csv).
+You can view or download the full sample dataset [here](./server/mern-app.records.csv).
 
 ## 📊 Sample Data (CSV Preview)
 
